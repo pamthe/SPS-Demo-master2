@@ -1,0 +1,822 @@
+2018-10-10 10:58:03 [RMI TCP Connection(1022)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2018-10-10 10:58:03 [RMI TCP Connection(1022)-127.0.0.1] INFO  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@ef9296d: startup date [Tue Oct 09 18:04:42 IST 2018]; root of context hierarchy
+2018-10-10 10:58:03 [RMI TCP Connection(1022)-127.0.0.1] INFO  o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+2018-10-10 10:58:03 [RMI TCP Connection(1022)-127.0.0.1] INFO  o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans
+2018-10-10 10:58:03 [RMI TCP Connection(1022)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 10:58:03 [RMI TCP Connection(1022)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 12:52:58 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 10356 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 12:52:58 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 12:52:59 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$bad1ae63] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 12:52:59 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 12:52:59 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 12:52:59 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 12:52:59 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 14 ms.
+2018-10-10 12:52:59 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 12:52:59 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 12:53:01 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 12:53:01 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 12:53:01 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 12:53:01 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 3.533 seconds (JVM running for 4.788)
+2018-10-10 12:53:02 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 12:53:02 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 13:00:01 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 7708 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 13:00:01 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 13:00:11 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$8da993f7] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 13:00:11 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 13:00:12 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 13:00:12 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 13:00:12 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 12 ms.
+2018-10-10 13:00:12 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 13:00:12 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 5 ms.
+2018-10-10 13:00:14 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 13:00:14 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 13:00:14 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 13:00:14 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 12.815 seconds (JVM running for 14.941)
+2018-10-10 13:01:14 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 13:01:14 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 13:04:49 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 11176 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 13:04:49 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 13:04:51 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$723e6e3d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 13:04:51 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 13:04:51 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 13:04:51 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 13:04:52 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 14 ms.
+2018-10-10 13:04:52 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 13:04:52 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 13:04:53 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 13:04:53 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 13:04:53 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 13:04:53 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.557 seconds (JVM running for 6.272)
+2018-10-10 13:05:43 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 13:05:43 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 13:07:05 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 10132 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 13:07:05 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 13:07:11 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$19c0b58a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 13:07:11 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 13:07:11 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 13:07:11 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 13:07:11 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 13 ms.
+2018-10-10 13:07:11 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 13:07:11 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 6 ms.
+2018-10-10 13:07:13 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 13:07:13 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 13:07:13 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 13:07:13 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 8.674 seconds (JVM running for 10.508)
+2018-10-10 13:07:34 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 13:07:34 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 13:10:15 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 1872 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 13:10:15 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 13:10:17 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$610e7030] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 13:10:17 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 13:10:17 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 13:10:17 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 13:10:17 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 17 ms.
+2018-10-10 13:10:17 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 13:10:17 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 3 ms.
+2018-10-10 13:10:19 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 13:10:19 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 13:10:19 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 13:10:19 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 5.199 seconds (JVM running for 6.931)
+2018-10-10 13:11:30 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 13:11:30 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 13:13:23 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 8016 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 13:13:23 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 13:13:25 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1e98af8e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 13:13:25 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 13:13:25 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 13:13:26 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 13:13:26 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 14 ms.
+2018-10-10 13:13:26 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 13:13:26 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 13:13:27 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 13:13:27 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 13:13:27 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 13:13:27 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.61 seconds (JVM running for 6.368)
+2018-10-10 13:14:19 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 13:14:19 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 13:15:01 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 8236 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 13:15:01 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 13:15:03 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$86d43db6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 13:15:03 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 13:15:03 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 13:15:03 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 13:15:03 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 13 ms.
+2018-10-10 13:15:03 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 13:15:03 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 13:15:05 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 13:15:05 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 13:15:05 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 13:15:05 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.78 seconds (JVM running for 6.603)
+2018-10-10 13:16:19 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 13:16:19 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 14:04:20 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 7832 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 14:04:20 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 14:04:22 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6c96c533] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 14:04:22 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 14:04:22 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 14:04:22 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 14:04:22 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 11 ms.
+2018-10-10 14:04:22 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 14:04:22 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 3 ms.
+2018-10-10 14:04:24 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 14:04:24 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 14:04:24 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 14:04:24 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 3.903 seconds (JVM running for 5.028)
+2018-10-10 14:04:24 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.capgemini.SpsDemoApplicationTests], using SpringBootContextLoader
+2018-10-10 14:04:24 [main] INFO  o.s.t.c.s.AbstractContextLoader - Could not detect default resource locations for test class [com.capgemini.SpsDemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-10-10 14:04:24 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.capgemini.SpsDemoApplicationTests]: SpsDemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-10-10 14:04:24 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.capgemini.SpsDemoApplication for test class com.capgemini.SpsDemoApplicationTests
+2018-10-10 14:04:24 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-10-10 14:04:24 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@ee21292, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@40c06358, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@66e21568, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@7f73ce28, org.springframework.test.context.support.DirtiesContextTestExecutionListener@611b35d6, org.springframework.test.context.transaction.TransactionalTestExecutionListener@2282400e, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@543d5863, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@35dece42, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@dd3f8aa, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@3d615b2e, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@3a1f2a1, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@40ce9049]
+2018-10-10 14:04:24 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 14:04:24 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 14:04:46 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 10884 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 14:04:46 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 14:04:48 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$dd04997b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 14:04:48 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 14:04:48 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 14:04:48 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 14:04:48 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 16 ms.
+2018-10-10 14:04:48 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 14:04:48 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 14:04:50 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 14:04:50 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 14:04:50 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 14:04:50 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.615 seconds (JVM running for 6.438)
+2018-10-10 14:05:29 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 14:05:29 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 14:07:22 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 9992 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 14:07:22 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 14:07:24 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$8fadf88c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 14:07:24 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 14:07:24 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 14:07:24 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 14:07:24 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 12 ms.
+2018-10-10 14:07:24 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 14:07:24 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 14:07:26 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 14:07:26 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 14:07:26 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 14:07:26 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.585 seconds (JVM running for 6.434)
+2018-10-10 14:07:48 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 14:07:48 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 14:08:24 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 856 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 14:08:24 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 14:08:26 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$96b018ae] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 14:08:26 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 14:08:27 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 14:08:27 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 14:08:27 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 15 ms.
+2018-10-10 14:08:27 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 14:08:27 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 14:08:28 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 14:08:28 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 14:08:28 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 14:08:28 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.464 seconds (JVM running for 6.147)
+2018-10-10 14:08:44 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 14:08:44 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 14:10:01 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 8184 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 14:10:01 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 14:10:03 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$dd4d17c9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 14:10:03 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 14:10:04 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 14:10:04 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 14:10:04 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 12 ms.
+2018-10-10 14:10:04 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 14:10:04 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 14:10:05 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 14:10:05 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 14:10:05 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 14:10:05 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.523 seconds (JVM running for 6.239)
+2018-10-10 14:10:31 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 14:10:31 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 14:11:22 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 10496 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 14:11:22 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 14:11:24 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$78815508] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 14:11:24 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 14:11:24 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 14:11:24 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 14:11:24 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 17 ms.
+2018-10-10 14:11:24 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 14:11:24 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 14:11:26 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 14:11:26 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 14:11:26 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 14:11:26 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.849 seconds (JVM running for 6.543)
+2018-10-10 14:12:04 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 14:12:04 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 14:12:50 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 7708 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 14:12:50 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 14:12:52 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$dd4d17c9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 14:12:52 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 14:12:52 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 14:12:52 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 14:12:52 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 13 ms.
+2018-10-10 14:12:52 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 14:12:52 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 14:12:54 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 14:12:54 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 14:12:54 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 14:12:54 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.75 seconds (JVM running for 6.492)
+2018-10-10 14:13:44 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 14:13:44 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 14:15:38 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 336 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 14:15:38 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 14:15:39 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$967f0914] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 14:15:40 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 14:15:40 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 14:15:40 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 14:15:40 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 14 ms.
+2018-10-10 14:15:40 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 14:15:40 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 14:15:42 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 14:15:42 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 14:15:42 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 14:15:42 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.517 seconds (JVM running for 6.213)
+2018-10-10 14:17:42 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 844 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 14:17:42 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 14:17:44 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$e90a65a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 14:17:44 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 14:17:45 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 14:17:45 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 14:17:45 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 14 ms.
+2018-10-10 14:17:45 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 14:17:45 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 3 ms.
+2018-10-10 14:17:46 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 14:17:46 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 14:17:46 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 14:17:46 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.721 seconds (JVM running for 6.544)
+2018-10-10 14:18:15 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 14:18:15 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 14:20:24 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 9592 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 14:20:24 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 14:20:26 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$de32367a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 14:20:26 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 14:20:26 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 14:20:26 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 14:20:26 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 14 ms.
+2018-10-10 14:20:26 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 14:20:26 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 5 ms.
+2018-10-10 14:20:28 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 14:20:28 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 14:20:28 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 14:20:28 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.863 seconds (JVM running for 6.758)
+2018-10-10 14:21:24 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 14:21:24 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 14:24:07 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 2864 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 14:24:07 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 14:24:09 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c362b133] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 14:24:09 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 14:24:09 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 14:24:10 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 14:24:10 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 14 ms.
+2018-10-10 14:24:10 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 14:24:10 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 14:24:11 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 14:24:11 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 14:24:11 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 14:24:11 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.637 seconds (JVM running for 6.466)
+2018-10-10 14:24:32 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 14:24:32 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 14:28:22 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 7032 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 14:28:22 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 14:28:23 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$567061d9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 14:28:24 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 14:28:24 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 14:28:24 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 14:28:24 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 14 ms.
+2018-10-10 14:28:24 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 14:28:24 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 5 ms.
+2018-10-10 14:28:26 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 14:28:26 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 14:28:26 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 14:28:26 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.602 seconds (JVM running for 6.462)
+2018-10-10 14:28:52 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 14:28:52 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 14:32:38 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 3748 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 14:32:38 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 14:32:40 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4bffd4cd] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 14:32:40 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 14:32:40 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 14:32:40 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 14:32:40 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 15 ms.
+2018-10-10 14:32:40 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 14:32:40 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 14:32:42 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 14:32:42 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 14:32:42 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 14:32:42 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.803 seconds (JVM running for 6.528)
+2018-10-10 14:32:51 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 14:32:51 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 14:33:06 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 9824 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 14:33:06 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 14:33:08 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$2ea58efa] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 14:33:08 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 14:33:08 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 14:33:08 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 14:33:08 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 13 ms.
+2018-10-10 14:33:08 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 14:33:08 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 14:33:10 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 14:33:10 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 14:33:10 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 14:33:10 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.416 seconds (JVM running for 6.186)
+2018-10-10 14:33:34 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 14:33:34 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 14:35:23 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 9620 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 14:35:23 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 14:35:24 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c93d7770] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 14:35:24 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 14:35:25 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 14:35:25 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 14:35:25 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 11 ms.
+2018-10-10 14:35:25 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 14:35:25 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 14:35:26 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 14:35:26 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 14:35:26 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 14:35:26 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 3.099 seconds (JVM running for 4.233)
+2018-10-10 14:35:26 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 14:35:26 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 14:43:03 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 2304 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 14:43:03 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 14:43:04 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ef3a414a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 14:43:05 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 14:43:05 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 14:43:05 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 14:43:05 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 15 ms.
+2018-10-10 14:43:05 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 14:43:05 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 14:43:07 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 14:43:07 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 14:43:07 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 14:43:07 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.639 seconds (JVM running for 6.366)
+2018-10-10 14:43:53 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 14:43:53 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 14:44:34 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 10304 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 14:44:34 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 14:44:36 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6c727937] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 14:44:37 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 14:44:37 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 14:44:37 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 14:44:37 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 14 ms.
+2018-10-10 14:44:37 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 14:44:37 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 5 ms.
+2018-10-10 14:44:39 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 14:44:39 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 14:44:39 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 14:44:39 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.682 seconds (JVM running for 6.379)
+2018-10-10 14:45:56 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 10868 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 14:45:56 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 14:45:58 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$64d08762] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 14:45:58 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 14:45:58 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 14:45:58 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 14:45:58 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 13 ms.
+2018-10-10 14:45:58 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 14:45:58 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 3 ms.
+2018-10-10 14:46:00 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 14:46:00 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 14:46:00 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 14:46:00 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.467 seconds (JVM running for 6.22)
+2018-10-10 14:46:28 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 14:46:28 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 14:49:08 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 2740 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 14:49:08 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 14:49:10 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ec3b54ce] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 14:49:10 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 14:49:10 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 14:49:10 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 14:49:10 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 14 ms.
+2018-10-10 14:49:10 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 14:49:10 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 5 ms.
+2018-10-10 14:49:12 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 14:49:12 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 14:49:12 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 14:49:12 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.589 seconds (JVM running for 6.289)
+2018-10-10 14:49:28 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 14:49:28 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 14:49:34 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 9808 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 14:49:34 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 14:49:35 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5bedfc9b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 14:49:36 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 14:49:36 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 14:49:36 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 14:49:36 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 15 ms.
+2018-10-10 14:49:36 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 14:49:36 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 14:49:38 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 14:49:38 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 14:49:38 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 14:49:38 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.634 seconds (JVM running for 6.358)
+2018-10-10 15:06:37 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 620 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 15:06:37 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 15:06:39 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$f14733d2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 15:06:39 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 15:06:39 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 15:06:39 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 15:06:39 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 15 ms.
+2018-10-10 15:06:39 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 15:06:39 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 5 ms.
+2018-10-10 15:06:41 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 15:06:41 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 15:06:41 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 15:06:41 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.61 seconds (JVM running for 6.353)
+2018-10-10 15:07:08 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 15:07:08 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 15:07:36 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 10136 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 15:07:36 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 15:07:38 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$bf967649] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 15:07:38 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 15:07:38 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 15:07:38 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 15:07:38 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 15 ms.
+2018-10-10 15:07:38 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 15:07:38 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 15:07:40 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 15:07:40 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 15:07:40 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 15:07:40 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.716 seconds (JVM running for 6.4)
+2018-10-10 15:07:41 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 15:07:41 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 15:08:14 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 8988 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 15:08:14 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 15:08:16 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7048582b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 15:08:16 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 15:08:16 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 15:08:16 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 15:08:16 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 16 ms.
+2018-10-10 15:08:16 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 15:08:16 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 15:08:18 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 15:08:18 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 15:08:18 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 15:08:18 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.494 seconds (JVM running for 6.148)
+2018-10-10 15:08:19 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 15:08:19 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 15:09:07 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 7112 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 15:09:07 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 15:09:09 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ff1735ca] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 15:09:09 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 15:09:09 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 15:09:09 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 15:09:09 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 17 ms.
+2018-10-10 15:09:09 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 15:09:09 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 15:09:11 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 15:09:11 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 15:09:11 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 15:09:11 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.571 seconds (JVM running for 6.374)
+2018-10-10 15:09:12 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 15:09:12 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 15:10:13 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 1388 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 15:10:13 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 15:10:14 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$fc13e48f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 15:10:15 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 15:10:15 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 15:10:15 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 15:10:15 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 17 ms.
+2018-10-10 15:10:15 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 15:10:15 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 15:10:17 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 15:10:17 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 15:10:17 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 15:10:17 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.623 seconds (JVM running for 6.317)
+2018-10-10 15:10:43 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 15:10:43 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 15:11:49 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 6344 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 15:11:49 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 15:11:51 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$fd3a7545] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 15:11:51 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 15:11:51 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 15:11:51 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 15:11:51 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 12 ms.
+2018-10-10 15:11:52 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 15:11:52 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 15:11:53 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 15:11:53 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 15:11:53 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 15:11:53 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.899 seconds (JVM running for 6.585)
+2018-10-10 15:11:54 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 15:11:54 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 15:12:09 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 9860 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 15:12:09 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 15:12:10 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$75b92954] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 15:12:11 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 15:12:11 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 15:12:11 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 15:12:11 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 20 ms.
+2018-10-10 15:12:11 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 15:12:11 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 5 ms.
+2018-10-10 15:12:13 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 15:12:13 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 15:12:13 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 15:12:13 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.494 seconds (JVM running for 6.179)
+2018-10-10 15:13:08 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 15:13:08 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 15:13:49 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 10652 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 15:13:49 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 15:13:51 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$189e6710] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 15:13:52 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 15:13:52 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 15:13:52 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 15:13:52 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 14 ms.
+2018-10-10 15:13:52 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 15:13:52 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 15:13:54 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 15:13:54 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 15:13:54 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 15:13:54 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.916 seconds (JVM running for 6.611)
+2018-10-10 15:14:16 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 15:14:16 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 15:28:58 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 7936 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 15:28:58 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 15:29:00 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$66ac814e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 15:29:00 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 15:29:00 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 15:29:00 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 15:29:00 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 15 ms.
+2018-10-10 15:29:00 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 15:29:00 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 15:29:02 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 15:29:02 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 15:29:02 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 15:29:02 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.54 seconds (JVM running for 6.368)
+2018-10-10 15:30:34 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 15:30:34 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 15:38:43 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 10528 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 15:38:43 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 15:38:45 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$570235d7] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 15:38:45 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 15:38:45 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 15:38:45 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 15:38:45 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 14 ms.
+2018-10-10 15:38:45 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 15:38:45 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 15:38:47 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 15:38:47 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 15:38:47 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 15:38:47 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.638 seconds (JVM running for 6.32)
+2018-10-10 15:39:33 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 15:39:33 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 15:40:33 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 10712 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 15:40:33 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 15:40:35 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$dc51ae5e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 15:40:35 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 15:40:35 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 15:40:35 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 15:40:35 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 14 ms.
+2018-10-10 15:40:35 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 15:40:35 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 3 ms.
+2018-10-10 15:40:37 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 15:40:37 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 15:40:37 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 15:40:37 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.573 seconds (JVM running for 6.271)
+2018-10-10 15:42:35 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 15:42:35 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 15:47:11 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 2596 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 15:47:11 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 15:47:13 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7422e12a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 15:47:13 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 15:47:13 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 15:47:13 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 15:47:13 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 16 ms.
+2018-10-10 15:47:13 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 15:47:13 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 15:47:15 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 15:47:15 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 15:47:15 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 15:47:15 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.693 seconds (JVM running for 6.373)
+2018-10-10 15:49:18 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 15:49:18 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 16:07:21 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 1796 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 16:07:21 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 16:07:22 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$291a7262] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 16:07:23 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 16:07:23 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 16:07:23 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 16:07:23 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 16 ms.
+2018-10-10 16:07:23 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 16:07:23 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 16:07:25 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 16:07:25 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 16:07:25 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 16:07:25 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.632 seconds (JVM running for 6.514)
+2018-10-10 16:08:51 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 16:08:51 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 16:09:17 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 11060 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 16:09:17 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 16:09:22 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5810c251] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 16:09:23 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 16:09:23 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 16:09:23 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 16:09:23 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 15 ms.
+2018-10-10 16:09:23 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 16:09:23 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 3 ms.
+2018-10-10 16:09:25 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 16:09:25 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 16:09:25 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 16:09:25 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 9.072 seconds (JVM running for 10.801)
+2018-10-10 16:09:57 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 16:09:57 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 16:10:28 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 10368 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 16:10:28 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 16:10:30 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6ccd9e54] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 16:10:30 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 16:10:30 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 16:10:30 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 16:10:30 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 14 ms.
+2018-10-10 16:10:30 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 16:10:30 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 16:10:32 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 16:10:32 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 16:10:32 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 16:10:32 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.669 seconds (JVM running for 6.433)
+2018-10-10 16:11:13 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 16:11:13 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 16:11:22 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 8844 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 16:11:22 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 16:11:24 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$42153210] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 16:11:24 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 16:11:25 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 16:11:25 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 16:11:25 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 14 ms.
+2018-10-10 16:11:25 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 16:11:25 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 16:11:27 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 16:11:27 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 16:11:27 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 16:11:27 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.631 seconds (JVM running for 6.39)
+2018-10-10 16:14:23 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 16:14:23 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 16:15:26 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on DIN8001580 with PID 7284 (started by pamthe in C:\Preeta\Code\SPS-DEMO-master)
+2018-10-10 16:15:26 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 16:15:28 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1e98af8e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 16:15:28 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 16:15:28 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 16:15:28 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql]
+2018-10-10 16:15:28 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/schema.sql] in 18 ms.
+2018-10-10 16:15:28 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql]
+2018-10-10 16:15:28 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-DEMO-master/target/classes/data.sql] in 4 ms.
+2018-10-10 16:15:30 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 16:15:30 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 16:15:30 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 16:15:30 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 4.606 seconds (JVM running for 6.416)
+2018-10-10 16:16:15 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 16:16:15 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 20:30:36 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on pukale-PC with PID 4692 (started by pukale in C:\Preeta\Code\SPS-Demo-master-master\SPS-Demo-master-master)
+2018-10-10 20:30:36 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 20:30:41 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$29b93106] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 20:30:41 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 20:30:41 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 20:30:42 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/schema.sql]
+2018-10-10 20:30:42 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/schema.sql] in 18 ms.
+2018-10-10 20:30:42 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/data.sql]
+2018-10-10 20:30:42 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/data.sql] in 5 ms.
+2018-10-10 20:30:44 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 20:30:44 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 20:30:44 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 20:30:44 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 9.839 seconds (JVM running for 15.555)
+2018-10-10 20:30:46 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.capgemini.SpsDemoApplicationTests], using SpringBootContextLoader
+2018-10-10 20:30:46 [main] INFO  o.s.t.c.s.AbstractContextLoader - Could not detect default resource locations for test class [com.capgemini.SpsDemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-10-10 20:30:46 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.capgemini.SpsDemoApplicationTests]: SpsDemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-10-10 20:30:47 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.capgemini.SpsDemoApplication for test class com.capgemini.SpsDemoApplicationTests
+2018-10-10 20:30:47 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-10-10 20:30:47 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@52c74d, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@c12db2, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@1ea7bc4, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1d77de9, org.springframework.test.context.support.DirtiesContextTestExecutionListener@16fad31, org.springframework.test.context.transaction.TransactionalTestExecutionListener@6b113, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@64cb0c, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@5ed99c, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@4ce583, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@15b5f30, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@1bbc63c, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@12778ae]
+2018-10-10 20:30:47 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 20:30:47 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 21:08:46 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on pukale-PC with PID 6124 (started by pukale in C:\Preeta\Code\SPS-Demo-master-master\SPS-Demo-master-master)
+2018-10-10 21:08:46 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 21:08:51 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5f35474f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 21:08:51 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 21:08:52 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 21:08:52 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/schema.sql]
+2018-10-10 21:08:52 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/schema.sql] in 36 ms.
+2018-10-10 21:08:52 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/data.sql]
+2018-10-10 21:08:52 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/data.sql] in 6 ms.
+2018-10-10 21:08:56 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 21:08:56 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 21:08:56 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 21:08:56 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 12.802 seconds (JVM running for 39.968)
+2018-10-10 21:08:59 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 21:08:59 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 21:09:50 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on pukale-PC with PID 4588 (started by pukale in C:\Preeta\Code\SPS-Demo-master-master\SPS-Demo-master-master)
+2018-10-10 21:09:50 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 21:09:53 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$24fc0d7e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 21:09:53 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 21:09:54 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 21:09:54 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/schema.sql]
+2018-10-10 21:09:54 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/schema.sql] in 30 ms.
+2018-10-10 21:09:54 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/data.sql]
+2018-10-10 21:09:54 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/data.sql] in 5 ms.
+2018-10-10 21:09:57 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 21:09:57 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 21:09:57 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 21:09:57 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 7.822 seconds (JVM running for 10.418)
+2018-10-10 21:11:44 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 21:11:44 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 21:22:14 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on pukale-PC with PID 3140 (started by pukale in C:\Preeta\Code\SPS-Demo-master-master\SPS-Demo-master-master)
+2018-10-10 21:22:14 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 21:22:19 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$2d72dfb4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 21:22:20 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 21:22:20 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 21:22:20 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/schema.sql]
+2018-10-10 21:22:20 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/schema.sql] in 20 ms.
+2018-10-10 21:22:20 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/data.sql]
+2018-10-10 21:22:20 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/data.sql] in 7 ms.
+2018-10-10 21:22:24 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 21:22:25 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 21:22:25 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 21:22:25 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 12.324 seconds (JVM running for 20.956)
+2018-10-10 21:23:49 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 21:23:49 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 21:49:42 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on pukale-PC with PID 3796 (started by pukale in C:\Preeta\Code\SPS-Demo-master-master\SPS-Demo-master-master)
+2018-10-10 21:49:42 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 21:49:47 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$919c0a27] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 21:49:48 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 21:49:48 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 21:49:48 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/schema.sql]
+2018-10-10 21:49:48 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/schema.sql] in 41 ms.
+2018-10-10 21:49:48 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/data.sql]
+2018-10-10 21:49:48 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/data.sql] in 19 ms.
+2018-10-10 21:49:53 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 21:49:53 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 21:49:53 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 21:49:53 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 13.121 seconds (JVM running for 20.448)
+2018-10-10 21:51:41 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 21:51:41 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 21:57:48 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on pukale-PC with PID 1152 (started by pukale in C:\Preeta\Code\SPS-Demo-master-master\SPS-Demo-master-master)
+2018-10-10 21:57:48 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 21:57:50 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7d67dba2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 21:57:51 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 21:57:51 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 21:57:51 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/schema.sql]
+2018-10-10 21:57:51 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/schema.sql] in 20 ms.
+2018-10-10 21:57:51 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/data.sql]
+2018-10-10 21:57:51 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/data.sql] in 6 ms.
+2018-10-10 21:57:55 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 21:57:55 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 21:57:55 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 21:57:55 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 7.834 seconds (JVM running for 10.113)
+2018-10-10 21:58:48 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 21:58:48 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 21:58:59 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on pukale-PC with PID 4612 (started by pukale in C:\Preeta\Code\SPS-Demo-master-master\SPS-Demo-master-master)
+2018-10-10 21:58:59 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 21:59:01 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$b3aeaf70] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 21:59:01 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 21:59:01 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 21:59:01 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/schema.sql]
+2018-10-10 21:59:01 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/schema.sql] in 17 ms.
+2018-10-10 21:59:01 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/data.sql]
+2018-10-10 21:59:01 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/data.sql] in 5 ms.
+2018-10-10 21:59:04 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 21:59:04 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 21:59:04 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 21:59:04 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 5.602 seconds (JVM running for 7.11)
+2018-10-10 21:59:05 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 21:59:05 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 21:59:15 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on pukale-PC with PID 5724 (started by pukale in C:\Preeta\Code\SPS-Demo-master-master\SPS-Demo-master-master)
+2018-10-10 21:59:15 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 21:59:17 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d2f0af5d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 21:59:18 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 21:59:18 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 21:59:18 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/schema.sql]
+2018-10-10 21:59:18 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/schema.sql] in 17 ms.
+2018-10-10 21:59:18 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/data.sql]
+2018-10-10 21:59:18 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/data.sql] in 6 ms.
+2018-10-10 21:59:20 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 21:59:20 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 21:59:20 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 21:59:20 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 5.581 seconds (JVM running for 7.059)
+2018-10-10 21:59:22 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 21:59:22 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 22:56:34 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on pukale-PC with PID 2676 (started by pukale in C:\Preeta\Code\SPS-Demo-master-master\SPS-Demo-master-master)
+2018-10-10 22:56:34 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 22:56:44 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4a28036] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 22:56:44 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 22:56:45 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 22:56:45 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/schema.sql]
+2018-10-10 22:56:45 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/schema.sql] in 17 ms.
+2018-10-10 22:56:45 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/data.sql]
+2018-10-10 22:56:45 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/data.sql] in 5 ms.
+2018-10-10 22:56:49 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 22:56:49 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 22:56:49 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 22:56:49 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 18.231 seconds (JVM running for 31.93)
+2018-10-10 22:56:51 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 22:56:51 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-10-10 22:58:06 [main] INFO  c.c.c.FriendManagementControllerTest - Starting FriendManagementControllerTest on pukale-PC with PID 7040 (started by pukale in C:\Preeta\Code\SPS-Demo-master-master\SPS-Demo-master-master)
+2018-10-10 22:58:06 [main] INFO  c.c.c.FriendManagementControllerTest - The following profiles are active: swagger-enabled-for-qa
+2018-10-10 22:58:08 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$9512175d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-10 22:58:09 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-10-10 22:58:09 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-10-10 22:58:09 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/schema.sql]
+2018-10-10 22:58:09 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/schema.sql] in 20 ms.
+2018-10-10 22:58:09 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executing SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/data.sql]
+2018-10-10 22:58:09 [main] INFO  o.s.jdbc.datasource.init.ScriptUtils - Executed SQL script from URL [file:/C:/Preeta/Code/SPS-Demo-master-master/SPS-Demo-master-master/target/classes/data.sql] in 6 ms.
+2018-10-10 22:58:12 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2018-10-10 22:58:12 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-10-10 22:58:13 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2018-10-10 22:58:13 [main] INFO  c.c.c.FriendManagementControllerTest - Started FriendManagementControllerTest in 8.168 seconds (JVM running for 14.368)
+2018-10-10 23:01:23 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-10-10 23:01:23 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
